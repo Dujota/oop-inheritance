@@ -10,6 +10,4 @@ def initialize(name, mass)
 
 end
 
-
-
 end
