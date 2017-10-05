@@ -1,0 +1,3 @@
+class Stars < Body
+
+end

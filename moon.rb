@@ -1,0 +1,4 @@
+class Moon < Body
+
+
+end
