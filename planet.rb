@@ -14,4 +14,8 @@ class Planets < Body
 
   end
 
+  def self.create(day, year)
+    Planets.new(day, year)
+  end
+
 end
