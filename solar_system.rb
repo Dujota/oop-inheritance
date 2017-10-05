@@ -1,4 +1,7 @@
 require_relative 'body'
+require_relative 'moon'
+require_relative 'star'
+require_relative 'planet'
 
 # First we'll need a class to represent the solar system. Let's call it System, and give it an attribute bodies. bodies will start as an empty array (ie. []).
 class System
